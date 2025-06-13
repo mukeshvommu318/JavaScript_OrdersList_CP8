@@ -1,0 +1,19 @@
+.containerClass1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.ulclass {
+  list-style: none;
+  padding: 0;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between; /* space between text and button */
+  align-items: center;
+  margin-bottom: 10px;
+}
